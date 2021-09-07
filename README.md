@@ -51,7 +51,7 @@ npm run deploy
 
 8. ##### Now go to brower and open http://{gitusername}.github.io/Road-to-REACT 
 9. #####  add this url to Contributor  able 
-10. ##### eg : |name | regnumber | link |---> |Virat | 19BCD7064 | Link
+10. ##### eg : |name | regnumber | link |---> |Virat | 19BCD7064 | [Link](http://{gitusername}.github.io/Road-to-REACT")
  
  <hr>
  
