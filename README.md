@@ -49,7 +49,7 @@ npm run deploy
     <img src="https://user-images.githubusercontent.com/68312849/132342115-84c434b3-88c9-43bc-9d44-2e95edc97d15.png"  height="250">
 </p>
 
-8. ##### Now go to brower and open <b>http://{gitusername}.github.io/Road-to-REACT </b>
+8. ##### Now go to brower and open http://{gitusername}.github.io/Road-to-REACT 
 9. #####  add this url to Contributor  able
  
  <hr>
