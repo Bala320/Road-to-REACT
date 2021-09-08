@@ -39,7 +39,7 @@ npm run deploy
 </p>
 
 8. ##### Now go to brower and open http://{gitusername}.github.io/Road-to-REACT 
-9. #####  add this url to Contributor  Table 
+9. #####  add this url to Contributor  Table in [Readme.md](https://github.com/Microsoft-Student-Chapter/Road-to-REACT/blob/main/README.md)
 10. ##### eg : |name | regnumber | link |---> |Virat | 19BCD7064 | [Link](http://{gitusername}.github.io/Road-to-REACT")
  
  <hr>
