@@ -1,10 +1,13 @@
 name: PR
 
-on: [pull_request]
+on: [pull_request,issues]
 
 jobs:
   greeting:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
     steps:
     - uses: actions/checkout@v1
       with:
