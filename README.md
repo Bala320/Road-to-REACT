@@ -4,7 +4,7 @@
 - ##### Topic : Introduction to Reactjs
 - ##### Date : 11/09/2021
 - ##### Duration :2 hours
-    -  ##### 90 minutes : Intoduction to Reactjs
+    -  ##### 90 minutes : [Intoduction to Reactjs](https://github.com/TheLeanProgrammer/react-starter)
     -  ##### 30 minutes : QNA
 
 # Contribution Instructions
